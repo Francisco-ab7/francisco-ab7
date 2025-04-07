@@ -1,4 +1,8 @@
-## Hi there 👋
+##  Hello, i am Francisco Aguilar.👋😄
+
+Technology is one of the things I love. I started in telecommunications and then moved on to the world of service platforms and equipment.
+Now I'm starting a new challenge with application and service development!!!
+
 
 <!--
 **Francisco-ab7/francisco-ab7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
