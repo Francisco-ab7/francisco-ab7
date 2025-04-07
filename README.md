@@ -3,6 +3,7 @@
 Technology is one of the things I love. I started in telecommunications and then moved on to the world of service platforms and equipment.
 Now I'm starting a new challenge with application and service development!!!
 
+![Javascript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 
 <!--
 **Francisco-ab7/francisco-ab7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
